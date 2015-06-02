@@ -498,7 +498,7 @@ html {
   overflow: hidden; }
 
 .footer__copywrite {
-  float: left; }
+  text-align: center; }
   .footer__copywrite small {
     font-size: 12px; }
 
